@@ -827,6 +827,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact {
   background: #f7f7f7;
   padding: 80px 0 40px 0;
+  background-image : url(../img/i5.jpg)
 }
 
 #contact #google-map {
