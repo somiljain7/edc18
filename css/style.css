@@ -780,7 +780,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team {
   background: #fff;
   padding: 80px 0 60px 0;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://cdn.pixabay.com/photo/2014/03/07/17/03/pen-282604_960_720.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/testimonial.jpg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
