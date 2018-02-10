@@ -391,8 +391,8 @@
 
           <div class="col-lg-5 col-md-8">
             <div class="form">
-              <div style="color:white;" id="thankyou_message" hidden>Your message has been sent. Thank you!</div>
-              <div style="color:white;" id="email-invalid" hidden>Email Invaid! Please try again</div>
+              <div style="color:white; display:none;" id="thankyou_message" >Your message has been sent. Thank you!</div>
+              <div style="color:white; display:none" id="email-invalid">Email Invaid! Please try again</div>
 
               <div id="errormessage"></div>
               <form action="https://script.google.com/macros/s/AKfycbx71usv_DHPARLEnS4t3SpNcfu9L5jC2XYXo_9vFxH3q6tX26c/exec" method="post" role="form" id="gform">
@@ -402,10 +402,6 @@
                 </div>
                 <div class="form-group">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validation"></div>
-                </div>
-                <div class="form-group">
-                  <input type="text" class="form-control" name="contact number" id="subject" placeholder="Phone Number" data-rule="minlen:10" data-msg="Please enter 10 digits of mobile number" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
