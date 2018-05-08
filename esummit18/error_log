@@ -1,0 +1,284 @@
+[15-Mar-2018 08:07:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/edcbvucoep/public_html/esummit18/config.php on line 18
+[15-Mar-2018 08:08:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/edcbvucoep/public_html/esummit18/config.php on line 18
+[15-Mar-2018 08:09:51 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/edcbvucoep/public_html/esummit18/config.php on line 18
+[15-Mar-2018 13:43:46 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:43:46 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:43:46 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:43:54 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:43:54 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:43:54 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:44:01 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:44:01 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:44:01 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:44:23 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:44:23 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:44:23 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:44:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:44:45 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:44:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:45:51 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:45:51 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:45:51 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:45:56 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:45:56 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:45:56 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:46:16 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:46:16 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:46:16 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:47:12 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:47:12 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:47:12 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 13:48:38 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:48:38 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 13:48:38 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:01:05 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:01:05 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:01:05 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:04:54 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:04:54 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:04:54 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:14:34 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:14:34 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:14:34 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:27:44 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:27:44 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:27:44 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:27:46 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:27:46 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:27:46 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:31:17 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:31:17 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:31:17 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:32:27 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:32:27 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:32:27 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:32:45 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:32:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:33:04 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:33:04 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:33:04 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:34:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:34:45 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:34:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:43:47 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:43:47 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:43:47 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:43:56 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:43:56 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:44:51 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:44:51 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:44:51 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:49:47 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:49:47 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:49:47 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:50:10 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:50:10 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:50:10 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:53:44 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:53:44 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:53:44 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:55:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:55:20 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:55:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 14:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:55:39 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 14:55:39 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:03:07 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:03:07 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:03:07 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:03:15 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:03:15 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:03:46 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:03:46 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:03:46 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:35:24 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:35:24 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:35:24 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:35:26 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:35:26 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:35:26 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:35:47 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:35:47 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:35:47 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:39:56 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:39:56 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:39:56 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 15:44:16 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:44:16 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 15:44:16 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 16:03:26 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 16:03:26 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 16:03:26 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 16:03:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 16:03:45 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 16:03:45 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 16:33:18 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 16:33:18 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 16:33:18 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:09:43 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:09:43 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:09:43 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:14:00 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:00 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:00 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:14:07 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:07 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:07 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:14:12 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:12 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:12 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:14:25 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:25 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:14:25 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:16:54 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:16:54 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:16:54 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:24:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:24:20 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:24:20 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:24:23 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:24:23 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:24:23 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:25:23 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:25:23 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:25:23 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:38:19 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:38:19 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:38:19 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:39:13 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:39:13 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:39:13 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:50:53 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:50:53 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:50:53 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:51:09 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:51:09 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:51:09 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 17:51:14 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:51:14 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 17:51:14 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 18:12:38 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:12:38 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:12:38 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 18:12:50 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:12:50 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:12:50 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 18:12:53 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:12:53 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:12:53 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 18:13:14 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:13:14 Asia/Kolkata] PHP Warning:  mysqli::query(): Empty query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 22
+[15-Mar-2018 18:13:14 Asia/Kolkata] PHP Notice:  Undefined variable: query in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 27
+[15-Mar-2018 18:29:59 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:29:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:33:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:33:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:33:24 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:33:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:33:58 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:33:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:34:00 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 18:34:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 22:54:33 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 22:54:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 22:54:38 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 22:54:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 22:54:55 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 22:54:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:09 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:09 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:11 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:12 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:20 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:21 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[15-Mar-2018 23:00:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:14 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:15 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:37 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:38 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[16-Mar-2018 18:49:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[19-Mar-2018 17:07:55 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[19-Mar-2018 17:07:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[24-Mar-2018 20:45:02 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[24-Mar-2018 20:45:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[24-Mar-2018 20:45:11 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[24-Mar-2018 20:45:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[21-Apr-2018 16:43:26 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30
+[21-Apr-2018 16:43:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/edcbvucoep/public_html/esummit18/registration_process.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/edcbvucoep/public_html/esummit18/registration_process.php on line 30

@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>E-Summit'18</title>
+    <!-- linking of cdn's -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="css/component.css">
+    <link rel="stylesheet" href="css/default.css">
+    <!-- Libraries CSS Files -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+    <!-- Main Stylesheet File -->
+    <link rel="stylesheet" href="css/style.css">
+    <link href="img/favicon.png" rel="icon">
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <!-- <link href="css/base.css" rel="stylesheet"> -->
+    <link href="css/cardio.css" rel="stylesheet">
+    <link href="css/component_nav.css" rel="stylesheet">
+    <!-- <link href="css/default1.css" rel="stylesheet"> -->
+    <link href="css/modal_speaker.css" rel="stylesheet">
+    <link href="css/nav_bar.css" rel="stylesheet">
+    <link href="css/stretch.css" rel="stylesheet">
+    <link href="css/style1.css" rel="stylesheet">
+    <link href="css/typography-default.css" rel="stylesheet">
+    <link href="css/color_scheme.css" rel="stylesheet">
+    <link href="css/component1.css" rel="stylesheet">
+    <link href="css/sifonn.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .topnav {
+            overflow: hidden;
+            background-size: cover;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: #10cdea;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+
+        .topnav .icon {
+            display: none;
+        }
+
+        @media screen and (max-width: 600px) {
+            .topnav a:not(:first-child) {
+                display: none;
+            }
+            .topnav a.icon {
+                float: right;
+                display: block;
+            }
+        }
+
+        @media screen and (max-width: 600px) {
+            .topnav.responsive {
+                position: relative;
+            }
+            .topnav.responsive .icon {
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+            .topnav.responsive a {
+                float: none;
+                display: block;
+                text-align: left;
+            }
+        }
+
+        /* Float the link section to the right */
+
+        .header-right {
+            float: right;
+        }
+
+
+        .logo {
+            overflow: hidden;
+            position: absolute;
+            z-index: 9999;
+            width: 50%;
+            top: 27%;
+            left: 25%;
+        }
+        
+        
+        
+        .btn {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.btn:hover {opacity: 1}
+    </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114670883-1"></script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-114670883-1');
+    </script>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+    .logo {
+        overflow: hidden;
+        position: absolute;
+        z-index: 9999;
+        width: 50%;
+        top: 27%;
+        left: 25%;
+    }
+</style>
+
+<body>
+    <section id="showcase">
+        <div class="container pt-2">
+            <div class="topnav" id="myTopnav">
+                <a class="active" href="#home">Home</a>
+                <a href="#services">Events</a>
+                <a href="#call-to-action">Schedule</a>
+                <a href="#sponsors">Sponsors</a>
+                <a href="#contact">Contact</a>
+                <div class="header-right">
+                    <img class="img-fluid md-2 " src="img/edc-white.png" alt="logo" height="50" width="130" style="padding-top:10px;">
+                </div>
+                <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+            </div>
+        </div>
+
+        <script>
+            function myFunction() {
+                var x = document.getElementById("myTopnav");
+                if (x.className === "topnav") {
+                    x.className += " responsive";
+                } else {
+                    x.className = "topnav";
+                }
+            }
+        </script>
+
+        <!--    </section>-->
+        <!--  <section id="showcase">-->
+        <div id="particles-js">
+            <div class="logo">
+                <img class="img-fluid" src="img/esummit_logo[1].png" alt="E Summit'18" srcset="">
+            </div>
+            <br>
+            <div class="helo">
+                <div class="row">
+                    <div class="mx-auto">
+                        <button id="register" class="btn btn-outline-primary text-center mt-1" type="submit" style="text-color: white;" data-toggle="modal" data-target="#exampleModal">REGISTER (Individuals)</button>
+                        <button id="register" class="btn btn-outline-danger text-center ml-2 mt-1" type="submit" data-toggle="modal" data-target="#exampleModal">REGISTER (StartUps)</button>
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+      </div>
+      <div class="modal-body">
+        Registration Closed, Thank You!
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="overlay-detail text-center">
+                <a href="#portfolio">
+                    <i class="fa fa-angle-down"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+    <section id="services" class="section section-padded effect-rotateleft" style="background:url(img/patterns/3.jpg);">
+        <div class="container">
+            <div class="row services">
+                <div class="container">
+                    <div class="row justify-content-md-center">
+                        <div class="col-lg-8">
+                            <h3 class="text-center mt-4 light-blue sifonn">What We Have At</h3>
+                            <h2 class="text-center mt-4 light-blue sifonn">
+                                <strong style="letter-spacing: 4px;">E-Summit'18</strong>
+                            </h2>
+                            <img src="img/separator_white.png" style="margin: auto;">
+                            <h3 class="text-center mt-4 light-blue sifonn">WORKSHOPS</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--==========================
+      Portfolio Section
+    ============================-->
+
+    <section id="services" class="section section-padded effect-rotateleft" style="background:url(img/patterns/3.jpg);">
+        <div class="container">
+            <div class="row services">
+                <div class="container">
+                    <div class="row justify-content-md-center">
+                       <!-- <div class="col-lg-8">
+                            <h3 class="text-center mt-4 light-blue sifonn">What We Have At</h3>
+                            <h2 class="text-center mt-4 light-blue sifonn">
+                                <strong style="letter-spacing: 4px;">E-Summit'18</strong>
+                            </h2>
+                            <img src="img/separator_white.png" style="margin: auto;">
+                        </div>  -->
+                    <div class="col-md-4" style="padding-bottom: 20px;">
+                        <div class="service" style="cursor: url(img/cursor/compie.png),auto;">
+                            <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                                <img src="img/icons/competitions.png" alt="" class="iconwwh">
+                            </div>
+                            <h4 class="heading sifonn light-blue" style="text-align: center;">Blockchain Basics</h4>
+                            <p class="description light-blue" style="text-align: justify;">Blockchain technology is widely regarded as a revolutionary technology, and banking and financial
+                                industry are at the forefront of experimenting with this technology. The comprehension of
+                                this technology and its potential impact are still in primitive stages and rapidly evolving.
+                                </p>
+                        </div>
+                  <!--      <p style="text-align: center;">
+                            <a href="esummit.pdf#page=4">
+                                <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                            </a>
+                        </p> -->
+
+                    </div>
+                        
+                        <br>
+                        
+                        
+                    <div class="col-md-4" style="padding-bottom: 20px;">
+                        <div class="service" style="cursor: url(img/cursor/panel_discussion.png),auto;">
+                            <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                                <img src="img/icons/panel_discussion.png" alt="" class="iconwwh">
+                            </div>
+                            <h4 class="heading sifonn light-blue" style="text-align: center;">Digital Marketing</h4>
+                            <p class="description light-blue" style="text-align: justify;">This Digital Marketing Training / Workshop covers different tools of digital marketing, choosing
+                                right tool in a specific situation, budgeting, and analysis. It also attempts to explain
+                                how to create and execute integrated digital marketing campaigns.
+                            </p>
+                        </div>
+                  <!--      <p style="text-align: center;">
+                            <a href="esummit.pdf#page=5">
+                                <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                            </a>
+                        </p> -->
+
+                    </div>
+                        
+                    
+
+                    <div class="col-md-4" style="padding-bottom: 20px;">
+                        <div class="service" style="cursor: url(img/cursor/workshops.png),auto;">
+                            <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                                <img src="img/icons/workshops.png" alt="" class="iconwwh">
+                            </div>
+                            <h4 class="heading sifonn light-blue" style="text-align: center;">Artificial Intelligence</h4>
+                            <p class="description light-blue" style="text-align: justify;">
+                                This session will teach you concepts of Machine Learning (ML) programs, Data Science routines, as well as techniques for
+                                designing new ML algorithms. The workshop aims to provide a better understanding of implementing
+                                Machine learning and Artificial Intelligence to hack day to day problems.
+
+                            </p>
+                        </div>
+                 <!--   <p style="text-align: center;">
+                        <a href="esummit.pdf#page=4">
+                            <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                        </a>
+                    </p> -->
+
+                    </div>
+                        <br>
+                        
+                        
+                </div>
+            </div>
+            <div class="row services">
+                <div class="col-md-4" style="padding-bottom: 20px;">
+                    <div class="service" style="cursor: url(img/cursor/compie.png),auto;">
+                        <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                            <img src="img/icons/competitions.png" alt="" class="iconwwh">
+                        </div>
+                        <h4 class="heading sifonn light-blue" style="text-align: center;">Creativity for Startups</h4>
+                        <p class="description light-blue" style="text-align: justify;">Business Model Canvas is strategic management and lean startup template for documenting a newly developed
+                            or existing business models. It is a visual chart with elements that categorize the various aspects
+                            of the product concerned.
+                        </p>
+                    </div>
+                   <!-- <p style="text-align: center;">
+                        <a href="esummit.pdf#page=5">
+                            <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                        </a>
+                    </p> -->
+
+                </div>
+                
+                <br>
+                
+                
+                <div class="col-md-4" style="padding-bottom: 20px;">
+                    <div class="service" style="cursor: url(img/cursor/workshops.png),auto;">
+                        <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                            <img src="img/icons/workshops.png" alt="" class="iconwwh">
+                        </div>
+                        <h4 class="heading sifonn light-blue" style="text-align: center;">Drones and Mobility</h4>
+                        <p class="description light-blue" style="text-align: justify;">The global market for commercial drones is growing rapidly.These days, with the expanding drone culture,
+                            more and more corporates and startups compete for urban airspace. The workshop would aim to expand
+                            the understanding of the participants about the structure and programming of drones and advancements
+                            along the same line.</p>
+                    </div>
+                  <!--  <p style="text-align: center;">
+                        <a href="esummit.pdf#page=4">
+                            <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                        </a>
+                    </p> -->
+
+                </div>
+                
+                         
+                
+
+                <div class="col-md-4" style="padding-bottom: 20px;">
+                    <div class="service" style="cursor: url(img/cursor/panel_discussions.png),auto;">
+                        <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                            <img src="img/icons/panel_discussion.png" alt="" class="iconwwh">
+                        </div>
+                        <h4 class="heading sifonn light-blue" style="text-align: center;">Funding 101</h4>
+                        <p class="description light-blue" style="text-align: justify;">India is witnessing a startup revolution and to capitalize the potential of India’s innovators and
+                            entrepreneurs a vibrant financial ecosystem is essential. Getting funding is a crucial element
+                            to kick off any start-up; there are various methods of funding that are popular in the start-up
+                            community nowadays, including traditional angel, VC and newly created crowdfunding etc.
+
+                    </div>
+
+        <!--    <p style="text-align: center;">
+                        <a href="esummit.pdf#page=5">
+                            <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                        </a>
+                    </p> -->
+                </div>
+                
+                <br>
+                
+                
+                
+            </div>
+        </div>
+        </div>
+        <!-- <div class="cut cut-bottom" style="border-left-width: 1438px;"></div> -->
+    <!-- <section id="portfolio background-img">
+        <div class="container wow fadeInUp">
+            <div class="section-header">
+                <h3 class="section-title mt-5">EVENTS</h3>
+                <p class="section-description">What We Have For You At E-Summit'18</p>
+                <div class="row">
+                </div>
+                <div class="row" >
+                    <div class="container" >
+                        <div class="main">
+                            <ul class="cbp-ig-grid">
+                                <li>
+                                    <a href="0#">
+                                        <span class="cbp-ig-icon cbp-ig-icon-shoe"></span>
+                                        <h3 class="cbp-ig-title">Blockchain Basics</h3>
+                                        <span class="cbp-ig-category">Technology</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="cbp-ig-icon cbp-ig-icon-ribbon"></span>
+                                        <h3 class="cbp-ig-title filter-web">Digital Marketing</h3>
+                                        <span class="cbp-ig-category">Business</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="cbp-ig-icon cbp-ig-icon-milk"></span>
+                                        <h3 class="cbp-ig-title">Artificial Intelligence</h3>
+                                        <span class="cbp-ig-category"></span>Technology</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="cbp-ig-icon cbp-ig-icon-whippy"></span>
+                                        <h3 class="cbp-ig-title">Business Model</h3>
+                                        <span class="cbp-ig-category">Business</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="cbp-ig-icon cbp-ig-icon-spectacles"></span>
+                                        <h3 class="cbp-ig-title">Drones and Mobility</h3>
+                                        <span class="cbp-ig-category">Technology</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <span class="cbp-ig-icon cbp-ig-icon-doumbek"></span>
+                                        <h3 class="cbp-ig-title">Funding 101</h3>
+                                        <span class="cbp-ig-category">Business</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section> -->
+    <!-- #portfolio -->
+
+         <!--==========================
+      Portfolio Section EVENTS
+    ============================-->
+
+    <div class="row justify-content-md-center">
+        <div class="col-lg-8">
+            <h3 class="text-center mt-4 light-blue sifonn"><br>EVENTS</h3>
+            <img src="img/separator_white.png" style="margin: auto;">
+        </div>
+    </div>
+
+    <section id="services" class="section section-padded effect-rotateleft" style="background:url(img/patterns/3.jpg);">
+        <div class="container">
+            <div class="row services">
+                <div class="container">
+                    <div class="row justify-content-md-center">
+                       <!-- <div class="col-lg-8">
+                            <h3 class="text-center mt-4 light-blue sifonn">What We Have At</h3>
+                            <h2 class="text-center mt-4 light-blue sifonn">
+                                <strong style="letter-spacing: 4px;">E-Summit'18</strong>
+                            </h2>
+                            <img src="img/separator_white.png" style="margin: auto;">
+                        </div>  -->
+                    <div class="col-md-4" style="padding-bottom: 20px;">
+                        <div class="service" style="cursor: url(img/cursor/compie.png),auto;">
+                            <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                                <img src="img/icons/competitions.png" alt="" class="iconwwh">
+                            </div>
+                            <h4 class="heading sifonn light-blue" style="text-align: center;">JUGAAD</h4>
+                            <p class="description light-blue" style="text-align: justify;">The best quality of an entrepreneur is to connect the chain of ideas. Putting the attendees’ creativity to test, they will be given 2 hours with a box full of unrelated random objects which will be utilized by them to make a product that can solve any day to day problem and then pitch the product to the panel. It’s an innovation from the scratch in its pure sense!
+                                </p>
+                        </div>
+                        
+                    
+                        <!--<p style="text-align: center;">
+                            <!--<a href="">
+                                <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                            </a>
+                        </p> -->
+
+                    </div>
+                        
+                        <br>
+                    
+                        
+                    <div class="col-md-4" style="padding-bottom: 20px;">
+                        <div class="service" style="cursor: url(img/cursor/panel_discussion.png),auto;">
+                            <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                                <img src="img/icons/panel_discussion.png" alt="" class="iconwwh">
+                            </div>
+                            <h4 class="heading sifonn light-blue" style="text-align: center;">SIPP</h4>
+                            <p class="description light-blue" style="text-align: justify;">STARTUP INTERNSHIP PLACEMENT PROGRAM aims at providing the enthusiastic students an entrepreneurial environment and an opportunity to realize their dreams.
+                                Startup internship placement programme will see the participation of startups backed by prestigious Venture Capital Firms to provide internship and placement to eligible students.
+                                
+                            </p>
+                        </div>
+                      <!--  <p style="text-align: center;">
+                            <a href="esummit.pdf#page=6">
+                                <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                            </a>
+                        </p> -->
+
+                    </div>
+                        
+                        <br>
+                        
+                        
+
+                    <div class="col-md-4" style="padding-bottom: 20px;">
+                        <div class="service" style="cursor: url(img/cursor/workshops.png),auto;">
+                            <div class="icon-holder" style="background: url(img/patterns/3.jpg);">
+                                <img src="img/icons/workshops.png" alt="" class="iconwwh">
+                            </div>
+                            <h4 class="heading sifonn light-blue" style="text-align: center;">PANEL DISCUSSION</h4>
+                            <p class="description light-blue" style="text-align: justify;">
+With the increasing number of career choices in front of students, comes the indecisiveness in taking the right path ahead. The discussion has been aimed at helping the attendees to come up with an efficient solution on a subjective basis. Experienced personalities would discuss the pros and cons of each and would guide the participants by clarifying their respective doubts and problems.
+
+                            </p>
+                        </div>
+                      <!--  <p style="text-align: center;">
+                            <a href="esummit.pdf#page=3">
+                                <button class="btn btn-1 btn-1e wwh">Learn More</button>
+                            </a>
+                        </p> -->
+                    </div>
+                        
+                        <br>
+                    
+                </div>
+            </div>
+            </div>
+
+            </div>
+</section>
+
+
+    <!--==========================
+      Team Section
+    ============================-->
+    <!-- <section id="team">
+    <div class="container">
+      <div class="section-header">
+        <h3 class="section-title mb-3" style="color:rgb(47, 165, 255)">
+          <u> We Have At E-Summit 2018</u>
+        </h3>
+        <h3 class="section-title"></h3>
+      </div>
+      <div class="row"  id="portfolio-wrapper">
+        <div class="col-lg-3 col-md-6 rounded-top" style="border-style: solid; border-color:rgb(47, 165, 255); border: 1px solid; ">
+          <div class="member">
+            <div class="pic">
+              <img src="img/Competition.png" alt="">
+            </div>
+          <h4 style="color:rgb(47, 165, 255)">COMPETITIONS</h4>
+          <div class="details">
+              <h4>App 1</h4>
+              <span>Alored dono par</span>
+            </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 rounded-top" style="border-style: solid; border-color:rgb(47, 165, 255);  border: 1px solid;">
+        <div class="member">
+          <div class="pic">
+            <img src="img/Workshop.png" alt="">
+          </div>
+          <h4 style="color:rgb(47, 165, 255)">WORKSHOPS</h4>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 rounded-top" style="border-style: solid; border-color:rgb(47, 165, 255);  border: 1px solid;">
+        <div class="member">
+          <div class="pic">
+            <img src="img/Discussion.png" alt="">
+          </div>
+          <h4 style="color:rgb(47, 165, 255)">PANEL DISCUSSIONS</h4>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 rounded-top" style="border-style: solid; border-color:rgb(47, 165, 255);  border: 1px solid;">
+        <div class="member">
+          <div class="pic">
+            <img src="img/Highlight event.png" alt="">
+          </div>
+          <h4 style="color:rgb(47, 165, 255)">HIGHLIGHT EVENT</h4>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  
+
+<!- =======================
+    Schedule
+    ============================-->
+    <section id="call-to-action">
+        <div class="container wow fadeIn">
+            <div class="row">
+                <div class="col-lg-9 text-center text-lg-left">
+                    <h3 class="cta-title">SCHEDULE</h3>
+                    <p class="cta-text"> "The key is not to prioritize what's on your schedule, but to schedule your priorities"</p>
+                </div>
+                <div class="col-lg-3 cta-btn-container text-center">
+                    <a class="cta-btn align-middle" href="img/PAGE-7.png">View Schedule</a>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Schedule -->
+    
+    <!-- MAPS -->
+    <div id="google-map ">
+        <!-- <div class="col-lg-12 col-md-12"> -->
+        <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJXa5GrsfqwjsRhNzgi8wWLvU&key=AIzaSyBipjvit8EJ0O3yuLwDhMAP1QOH6D2OBx4"
+            frameborder="0" height="300px" width="100%" style="border:0" allowfullscreen></iframe>
+        <!-- </div> -->
+    </div>
+
+    <!-- Maps ends -->
+    
+    <!--==========================
+      Sponsors Section
+    ============================-->
+    <section id="sponsors">
+    <div class="container">
+    <div class="container wow fadeInUp mt-2 pb-3">
+            <div class="section-header">
+                <h3 class="section-title" style="color: white">Sponsors</h3>
+            </div>
+    </div>
+    <section class="customer-logos slider">
+    <div class="slide"><img src="img/pepsico.png"></div>
+    <div class="slide"><img src="img/knt.png"></div>
+    <div class="slide"><img src="img/bbw.png"></div>
+    <div class="slide"><img src="img/biip.png"></div>
+    <div class="slide"><img src="img/imfs.png"></div>
+    </section>
+    </div>
+    <!-- change slide show number -->
+    <script>
+           $(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 4,      
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 3
+            }
+        }]
+    });
+});    
+    </script>
+
+    </section>
+    <!-- #Sponsors-->
+    
+    
+    <!--==========================
+      Contact Section
+    ============================-->
+    <section id="contact">
+        <div class="container wow fadeInUp mt-2 pb-3">
+            <div class="section-header">
+                <h3 class="section-title" style="color: white">Contact</h3>
+            </div>
+        </div>
+
+        <!-- <div id="google-map container"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d30277.0212092263!2d73.85079404499831!3d18.455207745752812!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eac7353cf903%3A0x98f9e9ff19dc42bb!2sBharati+Vidyapeeth+Deemed+University!5e0!3m2!1sen!2sin!4v1518241026094" width="1500" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></div> -->
+
+        <div class="container wow fadeInUp mt-3">
+            <div class="row justify-content-center">
+
+                <div class="col-lg-3 col-md-4 mt-3 pt-4">
+
+                    <div class="info">
+                        <div>
+                            <i style="color:rgb(47, 165, 255)" class="fa fa-map-marker"></i>
+                            <p style="color:white">Bharati Vidyapeeth University
+                                <br>College of enginnering
+                                <br>Pune-411043</p>
+                        </div>
+
+                        <div>
+                            <i class="fa fa-envelope"></i>
+                            <p style="color:white">edcbvucoep@gmail.com</p>
+                        </div>
+
+                        <div>
+                            <i class="fa fa-phone"></i>
+                            <p style="color:white">+91-8087424160</p>
+                        </div>
+                    </div>
+
+                    <div class="social-links">
+                        <a href="https://twitter.com/edcbvucoep?lang=en" class="twitter">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                        <a href="https://www.facebook.com/edcbvucoep/" class="facebook">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                        <a href="https://www.instagram.com/edcbvucoe/" class="instagram">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                        <a href="https://plus.google.com/105610136565320498225" class="google-plus">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                        <a href="https://www.linkedin.com/company/edcbvucoep/" class="linkedin">
+                            <i class="fa fa-linkedin"></i>
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-5 col-md-8">
+                    <div class="form">
+                        <div id="sendmessage">Your message has been sent. Thank you!</div>
+                        <div id="errormessage"></div>
+                        <form action="" method="post" role="form" class="contactForm">
+                            <div class="form-group">
+                                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars"
+                                />
+                                <div class="validation"></div>
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email"
+                                />
+                                <div class="validation"></div>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject"
+                                />
+                                <div class="validation"></div>
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                <div class="validation"></div>
+                            </div>
+                            <div class="text-center">
+                                <button class="btn" type="submit">Send Message</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <!-- #contact -->
+
+    <!--==========================
+    Footer
+  ============================-->
+    <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                <br>
+                <strong>Entreprenurship Development Cell</strong>
+                <br>
+                <br>Bharati Vidyapeeth (Deemed to be University) College of Engineering , Pune.
+                <br> All Rights Reserved
+                <a href="#" class="back-to-top pull-right ">
+                    <i class="fa fa-chevron-up  " style="font-size:48px;color:rgb(0, 109, 193)"></i>
+                </a>
+            </div>
+
+        </div>
+
+    </footer>
+    <!-- #footer -->
+
+
+    <!-- particle script -->
+    <script src="js/modernizr.custom.js" charset="utf-8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script>
+        particlesJS.load('particles-js', 'js/particlesjs-config 3.json', function () {
+            console.log('callback - particles.js config loaded');
+        });
+    </script>
+    <!-- JavaScript Libraries -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8HeI8o-c1NppZA-92oYlXakhDPYR7XMY"></script>
+
+    <script data-cfasync="false" type="text/javascript" src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+
+</body>
+
+</html>

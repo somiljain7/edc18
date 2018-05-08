@@ -94,6 +94,14 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
+  // TESTING
+  $(function() {
+    var text = $(".text");
+    $(window).onload(function() {
+        text.removeClass("hidden");
+    });
+  });
+
   // Porfolio filter
   $("#portfolio-flters li").click ( function() {
     $("#portfolio-flters li").removeClass('filter-active');
