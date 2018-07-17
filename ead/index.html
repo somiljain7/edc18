@@ -19,25 +19,22 @@
 <!--===============================================================================================-->
 </head>
 <body>
-	
 	<div class="limiter">
 		<div class="container-login100" style="background-image: url(images/success.jpg);">
+			<div class="img-responsive text-center">
+				<img src="../img/img/edcpng.png" alt="logo" width="25%" height="20%" class="center" >
+			</div>
 			<div class="wrap-login100 p-l-110 p-r-110 p-t-62 p-b-33">
 				<form class="login100-form validate-form flex-sb flex-w">
 					<span class="login100-form-title p-b-53">
-						Sign In With
+						Entreprenurship Awareness Drive
 					</span>
-					<div id = "firebaseui-auth-container"  class="btn-face m-b-20">
-					<a href="#" id="firebaseui-auth-container">
-						<i class="fa fa-facebook-official"></i>
-						Facebook
+					<div class="container">
+				<div class=" m-b-20">
+					<a href="#" id="firebaseui-auth-container" >
+
 					</a>
 				</div>
-				<div id = "firebaseui-auth-container" class="btn-google m-b-20">
-					<a href="#"  id="firebaseui-auth-container">
-						<img src="images/icons/icon-google.png" alt="GOOGLE">
-						Google
-					</a>
 				</div>
 				</form>
 			</div>
@@ -71,6 +68,7 @@
           // Leave the lines as is for the providers you want to offer your users.
           firebase.auth.GoogleAuthProvider.PROVIDER_ID,
           firebase.auth.FacebookAuthProvider.PROVIDER_ID,
+		  firebase.auth.PhoneAuthProvider.PROVIDER_ID
         ],
         // Terms of service url.
         tosUrl: '<your-tos-url>'
