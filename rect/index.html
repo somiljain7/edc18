@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Rectruirtments '2018'</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="images/flavcon.png" />
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+    <link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <!--===============================================================================================-->
+</head>
+
+<body>
+    <div class="limiter">
+        <div class="container-login100" style="background-image: url(images/success.jpg);">
+            <div class="img-responsive text-center">
+                <img src="../img/img/edcpng.png" alt="logo" width="25%" height="20%" class="center">
+            </div>
+            <div class="wrap-login100 p-l-110 p-r-110 p-t-62 p-b-33" style="box-shadow: -0.4em 0.3em grey;">
+                <form class="login100-form validate-form flex-sb flex-w">
+                    <span class="login100-form-title p-b-53">
+						Entrepreneurship Awareness Drive
+					</span>
+                    <div class="container">
+                        <div class=" m-b-20">
+                            <a href="#" id="firebaseui-auth-container">
+
+					</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="dropDownSelect1"></div>
+
+    <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyBO2uzGXB9Zmmw4l7BFIIUbLHnd6hh8rww",
+            authDomain: "ead1-5f4fb.firebaseapp.com",
+            databaseURL: "https://ead1-5f4fb.firebaseio.com",
+            projectId: "ead1-5f4fb",
+            storageBucket: "ead1-5f4fb.appspot.com",
+            messagingSenderId: "225765051300"
+        };
+        firebase.initializeApp(config);
+
+    </script>
+
+    <script src="https://cdn.firebase.com/libs/firebaseui/3.1.1/firebaseui.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.1.1/firebaseui.css" />
+    <script type="text/javascript">
+		// FirebaseUI config.
+		const btnLogout = document.getElementById('btnLogout');
+
+        var uiConfig = {
+            signInSuccessUrl: 'student_resgistration.php',
+            signInOptions: [
+                // Leave the lines as is for the providers you want to offer your users.
+                firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+                firebase.auth.PhoneAuthProvider.PROVIDER_ID,
+            ],
+            // Terms of service url.
+            tosUrl: '<your-tos-url>'
+        };
+
+        // Initialize the FirebaseUI Widget using Firebase.
+        var ui = new firebaseui.auth.AuthUI(firebase.auth());
+        // The start method will wait until the DOM is loaded.
+        ui.start('#firebaseui-auth-container', uiConfig);
+
+        firebase.auth().signOut().then(function() {
+            console.log('Signed Out');
+        }, function(error) {
+            console.error('Sign Out Error', error);
+        });
+
+    </script>
+
+    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+    <script src="vendor/animsition/js/animsition.min.js"></script>
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="vendor/select2/select2.min.js"></script>
+    <script src="vendor/daterangepicker/moment.min.js"></script>
+    <script src="vendor/daterangepicker/daterangepicker.js"></script>
+    <script src="vendor/countdowntime/countdowntime.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
