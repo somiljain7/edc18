@@ -8,22 +8,24 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
-      <title>Registration</title>
+      <title>Registration '18</title>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-      <link rel="stylesheet" href="css/resgistration.css">
       <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>      <link rel="stylesheet" href="style.css">
       <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-   </head>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> 
+</head>
    <link href="images/flavcon.png" rel="icon">
    <body>
       <div class="container">
+      <div class="img-responsive text-center mt-4">
+                <img src="../img/img/edcpng.png" alt="logo" width="25%" height="20%" class="center">
+            </div>
          <form class="form-horizontal needs-validation" role="form" enctype="multipart/form-data" method="POST">
             <div class="row">
                <div class="col-md-3"></div>
                <div class="col-md-6">
-                  <h2 class="mt-3 text-center">INDIVIDUAL REGISTRATION</h2>
+                  <h2 class="mt-3 text-center"> REGISTRATION</h2>
                   <hr>
                </div>
             </div>
@@ -144,43 +146,43 @@
                   <div class="form-group  autofocus">
                      <div class="input-group mb-2 mr-sm-2 mb-sm-0 ">
                         <div class="form-check mt-2 mt-2">
-                           <input class="form-check-input" type="radio" name="domain1" value="Technical And Designing" id="defaultCheck1" >
+                           <input class="form-check-input move-left" type="radio" name="domain1" value="Technical And Designing" id="defaultCheck1" >
                            <label class="form-check-label" for="defaultCheck1">
                            Domain One: (   Technical And Designing   )                                                
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input" type="radio" value="Content Writing" name="domain2" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="radio" value="Content Writing" name="domain2" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Two:                 ( Content Writing  )                                                   
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input" type="radio" value="Corporate Relations" name="domain3" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="radio" value="Corporate Relations" name="domain3" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Three:  ( Corporate Relations )
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input" type="radio" value="Creativity" name="domain4" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="radio" value="Creativity" name="domain4" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Four:  ( Creativity )
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input" type="radio" value="Publicity" name="domain5" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="radio" value="Publicity" name="domain5" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Five:  ( Publicity ) 
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input" type="radio" value="Marketing" name="domain6" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="radio" value="Marketing" name="domain6" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domaim Six: ( Marketing )
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input" type="radio" value="Media Cell" name="domain7" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="radio" value="Media Cell" name="domain7" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Seven: ( Media Cell )
                            </label>
@@ -279,10 +281,11 @@
             <div class="row">
                <div class="col-md-3 mb-4"></div>
                <div class="col-md-6">
-                  <input type="submit" class="btn btn-primary" name="submit" value="Submit">
+                  <input type="submit" class="btn btn-primary mb-4" name="submit" value="Submit">
                </div>
             </div>
          </form>
       </div>
+      </footer>
    </body>
 </html>

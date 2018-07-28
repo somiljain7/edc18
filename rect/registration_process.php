@@ -22,7 +22,7 @@ if(isset($_POST['submit'])){
     if ($conn->query($query) === TRUE)
     {
         echo "New record created successfully";
-        header("Location: registration_successful.html");
+        header("Location: regis_succ/index.html");
     } else {
         echo "Error: " . $query . "<br>" . $conn->error;
     }
