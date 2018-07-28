@@ -155,6 +155,7 @@
                             <label class="custom-control-label" for="customRadio1">Student:<br></label>
                            <!-- <div class="form-group">
                                 <label for="exampleFormControlSelect1">Year Of Graduation</label>
+                                <label for="exampleFormControlSelect1">Year Of Graduation</label>
                                 <select class="form-control" name="year" id="year_of_grad">
                                     <option value="2018" style="color:black;">2018</option>
                                     <option value="2019" style="color:black;">2019</option>

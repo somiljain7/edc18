@@ -12,7 +12,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db = "esummit";
+$db = "recruit";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password ,$db);

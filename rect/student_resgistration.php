@@ -51,7 +51,7 @@
         </div>
         <div class="row">
             <div class="col-md-3 field-label-responsive">
-                <label for="college">Branch</label>
+                <label for="branch">Branch</label>
             </div>
             <div class="col-md-6">
                 <div class="form-group">
@@ -72,7 +72,7 @@
         </div>
         <div class="row">
             <div class="col-md-3 field-label-responsive">
-                <label for="college">Contact Number</label>
+                <label for="c_no">Contact Number</label>
             </div>
             <div class="col-md-6">
                 <div class="form-group">
@@ -93,7 +93,7 @@
         </div>
         <div class="row">
             <div class="col-md-3 field-label-responsive">
-                <label for="college">WhatsApp Number</label>
+                <label for="w_no">WhatsApp Number</label>
             </div>
             <div class="col-md-6">
                 <div class="form-group">
@@ -143,7 +143,7 @@
         
         <div class="row">
             <div class="col-md-3 field-label-responsive">
-                <label for="email">Domain (Choose Any Of Two)</label>
+                <label for="domain">Domain (Choose Any Of Two)</label>
             </div>
             <div class="col-md-6">
                 <div class="form-group">
@@ -235,7 +235,7 @@
        
  <div class="row mt-4">
             <div class="col-md-3 field-label-responsive">
-               <label for="ques1">
+               <label for="ques2">
 	 How lucky are you and why?
                </label>
             </div>
@@ -256,7 +256,7 @@
         
  <div class="row mt-4">
             <div class="col-md-3 field-label-responsive">
-               <label for="ques1">
+               <label for="ques3">
 	 
 	What according to you, is the difference between a group and a team?
 
@@ -281,7 +281,7 @@
         
  <div class="row mt-4">
             <div class="col-md-3 field-label-responsive">
-               <label for="ques1">
+               <label for="ques4">
             "It’s easy to knock off an innovative product, but an innovative business system is much harder to replicate.".Comment on the above statement within 60 words
                </label>
             </div>
