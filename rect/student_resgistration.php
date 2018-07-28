@@ -57,7 +57,7 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-university"></i></div>
-                        <input type="text" name="collegeName" class="form-control" id="email"
+                        <input type="text" name="branch" class="form-control" id="email"
                                placeholder="Branch" required autofocus>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-mobile"></i></div>
-                        <input type="text" name="contact" class="form-control" maxlength=10
+                        <input type="text" name="c_no" class="form-control" maxlength=10
                                placeholder="Contact Number" required autofocus>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                 <div class="form-group">
                     <div class="input-group mb-2 mr-sm-2 mb-sm-0">
                         <div class="input-group-addon" style="width: 2.6rem"><i class="fa fa-whatsapp"></i></div>
-                        <input type="text" name="wcontact" class="form-control" maxlength=10
+                        <input type="text" name="w_no" class="form-control" maxlength=10
                                placeholder="WhatsApp Number" required autofocus>
                     </div>
                 </div>
@@ -219,8 +219,8 @@
             </div>
             <div class="col-md-6">
 <div class="form-group">
-  <label for="comment">Answer:</label>
-  <textarea class="form-control" rows="5" id="comment"></textarea>
+  <label for="ques1">Answer:</label>
+  <textarea class="form-control" rows="5" id="ques1"></textarea>
 </div>
             </div>
             <div class="col-md-3">
@@ -241,8 +241,8 @@
             </div>
             <div class="col-md-6">
 <div class="form-group">
-  <label for="comment">Answer:</label>
-  <textarea class="form-control" rows="5" id="comment"></textarea>
+  <label for="ques2">Answer:</label>
+  <textarea class="form-control" rows="5" id="ques2"></textarea>
 </div>
             </div>
             <div class="col-md-3">
@@ -265,8 +265,8 @@
             </div>
             <div class="col-md-6">
 <div class="form-group">
-  <label for="comment">Answer:</label>
-  <textarea class="form-control" rows="5" id="comment"></textarea>
+  <label for="ques3">Answer:</label>
+  <textarea class="form-control" rows="5" id="ques3"></textarea>
 </div>
             </div>
             <div class="col-md-3">
@@ -287,8 +287,8 @@
             </div>
             <div class="col-md-6">
 <div class="form-group">
-  <label for="comment">Answer:</label>
-  <textarea class="form-control" rows="5" id="comment"></textarea>
+  <label for="ques4">Answer:</label>
+  <textarea class="form-control" rows="5" id="ques4"></textarea>
 </div>
             </div>
             <div class="col-md-3">

@@ -6,8 +6,8 @@
 @$c_no = $_POST['c_no'];
 @$w_no = $_POST['w_no'];
 @$email = $_POST['email'];
-@$domain = $_POST['domain'];
-@$events = $_POST['domain1']." ".$_POST['domain2']." ".$_POST['domain3']." ".$_POST['domain4']." ".$_POST['domain5']." ".$_POST['domain5'];
+//@$domain = $_POST['domain'];
+@$domain = $_POST['domain1']." ".$_POST['domain2']." ".$_POST['domain3']." ".$_POST['domain4']." ".$_POST['domain5']." ".$_POST['domain5'];
 @$ques1 = $_POST['ques1'];
 @$ques2 = $_POST['ques2'];
 @$ques3 = $_POST['ques3'];
@@ -17,7 +17,7 @@ $date=date("Y-m-d");
 $time=date("H:i:sa");
 
 if(isset($_POST['submit'])){
-    $query = "INSERT INTO recruit( name, branch, c_no, w_no, email, domain, ques1,  ques2, ques3, ques4) VALUES ('$name', '$branch', '$c_no', '$w_no', '$email', '$domain','$events', '$ques1','$ques2', '$ques3', '$ques4')";
+    $query = "INSERT INTO recruit( name, branch, c_no, w_no, email, domain, ques1,  ques2, ques3, ques4) VALUES ('$name', '$branch', '$c_no', '$w_no', '$email', '$domain', '$ques1','$ques2', '$ques3', '$ques4')";
     // echo $query;
     if ($conn->query($query) === TRUE)
     {
