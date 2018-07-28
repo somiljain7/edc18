@@ -19,7 +19,7 @@
    <body>
       <div class="container">
       <div class="img-responsive text-center mt-4">
-                <img src="../img/img/edcpng.png" alt="logo" width="25%" height="20%" class="center">
+                <img src="edcpng.png" alt="logo" width="25%" height="20%" class="center">
             </div>
          <form class="form-horizontal needs-validation" role="form" enctype="multipart/form-data" method="POST">
             <div class="row">
