@@ -146,43 +146,43 @@
                   <div class="form-group  autofocus">
                      <div class="input-group mb-2 mr-sm-2 mb-sm-0 ">
                         <div class="form-check mt-2 mt-2">
-                           <input class="form-check-input move-left" type="radio" name="domain1" value="Technical And Designing" id="defaultCheck1" >
+                           <input class="form-check-input move-left" type="checkbox" name="domain1" value="Technical And Designing" id="defaultCheck1" >
                            <label class="form-check-label" for="defaultCheck1">
                            Domain One: (   Technical And Designing   )                                                
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input move-left" type="radio" value="Content Writing" name="domain2" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="checkbox" value="Content Writing" name="domain2" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Two:                 ( Content Writing  )                                                   
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input move-left" type="radio" value="Corporate Relations" name="domain3" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="checkbox" value="Corporate Relations" name="domain3" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Three:  ( Corporate Relations )
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input move-left" type="radio" value="Creativity" name="domain4" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="checkbox" value="Creativity" name="domain4" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Four:  ( Creativity )
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input move-left" type="radio" value="Publicity" name="domain5" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="checkbox" value="Publicity" name="domain5" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Five:  ( Publicity ) 
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input move-left" type="radio" value="Marketing" name="domain6" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="checkbox" value="Marketing" name="domain6" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domaim Six: ( Marketing )
                            </label>
                         </div>
                         <div class="form-check mt-2">
-                           <input class="form-check-input move-left" type="radio" value="Media Cell" name="domain7" id="defaultCheck1">
+                           <input class="form-check-input move-left" type="checkbox" value="Media Cell" name="domain7" id="defaultCheck1">
                            <label class="form-check-label" for="defaultCheck1">
                            Domain Seven: ( Media Cell )
                            </label>
@@ -286,6 +286,5 @@
             </div>
          </form>
       </div>
-      </footer>
    </body>
 </html>
