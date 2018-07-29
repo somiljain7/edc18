@@ -12,12 +12,13 @@
 @$ques2 = $_POST['ques2'];
 @$ques3 = $_POST['ques3'];
 @$ques4 = $_POST['ques4'];
+@$ques5 = $_POST['ques5'];
 date_default_timezone_set('Asia/Kolkata');
 $date=date("Y-m-d");
 $time=date("H:i:sa");
 
 if(isset($_POST['submit'])){
-    $query = "INSERT INTO recruit( name, branch, c_no, w_no, email, domain, ques1,  ques2, ques3, ques4) VALUES ('$name', '$branch', '$c_no', '$w_no', '$email', '$domain', '$ques1','$ques2', '$ques3', '$ques4')";
+    $query = "INSERT INTO recruit( name, branch, c_no, w_no, email, domain, ques1,  ques2, ques3, ques4, ques5) VALUES ('$name', '$branch', '$c_no', '$w_no', '$email', '$domain', '$ques1','$ques2', '$ques3', '$ques4', '$ques5' )";
     // echo $query;
     if ($conn->query($query) === TRUE)
     {
